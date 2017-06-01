@@ -1,6 +1,9 @@
 # front-end-challenge
 
+
 npm run start
+
+http://localhost:8080
 
 
 React, Webpack, Babel.
